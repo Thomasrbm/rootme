@@ -1,0 +1,19 @@
+
+
+fonction chargee onload.
+js inline = on voit pas
+
+donc le js de la fonction login est chargee en meme temps que le html
+
+la fonction est "inline"
+
+
+
+donc on peut pas voir la requete GET du js.
+ca montre le DOM de la page pas juste le resume de  l inspecteur
+
+mais ctrl + u  / clique droit view source
+
+
+
+donne le source code de la page html
