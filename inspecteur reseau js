@@ -1,0 +1,12 @@
+
+
+
+on peut get les fonctions js qui sont envoyer en filtrant par js
+
+
+et si la fonction de check mdp check en clair le mdp === ""  .
+
+
+
+normalement on check cote serveur . en envoye nous en client le mdp en requete post et le serveur check chez lui
+jamais check en front 
