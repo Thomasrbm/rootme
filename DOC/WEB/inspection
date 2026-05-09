@@ -1,0 +1,29 @@
+
+-------------------------------------- FRONT
+
+Dans le navigateur tu as tout le code du site en full access.
+Rien ne peut  t empecher de le modifier.
+
+
+
+
+
+Car le serv envoye tout.
+donc peut modifier bouttons etc.
+
+
+---> la securite doit toujours etre applique cote serveur jamais front.
+
+Rien ne doit etre stocker sur le front
+
+
+ 
+-----------------------------------------  BACK
+
+
+
+pareil les verification de mdp se font back jamais front
+
+
+
+

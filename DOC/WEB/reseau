@@ -1,0 +1,17 @@
+
+
+Tu peux envoyer des requetes aux BACK avec l onglet reseau de l inspecteur.
+
+
+
+Tu peux changer ton ip en renvoyer la requete avec des entetes comme : 
+
+
+X-Forwarded-For  192.168.12.12  (dit que le client est sur reseau local)
+
+
+
+
+
+===> protection :  ne pas croire le client. demander une vraie ip, jamais croire X-Forwarded-For,
+avoir un proxy
